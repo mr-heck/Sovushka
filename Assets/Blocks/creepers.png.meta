@@ -1,0 +1,678 @@
+fileFormatVersion: 2
+guid: e23086805d5195446ad0138cf96f06fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2612200653557200246
+    second: creepers_0
+  - first:
+      213: 4874114971090649112
+    second: creepers_1
+  - first:
+      213: -5796081627684493717
+    second: creepers_2
+  - first:
+      213: 7613501182255663889
+    second: creepers_3
+  - first:
+      213: 8899468142486752708
+    second: creepers_4
+  - first:
+      213: -8242328812480011838
+    second: creepers_5
+  - first:
+      213: -8780603165680455295
+    second: creepers_6
+  - first:
+      213: 3712000703808747505
+    second: creepers_7
+  - first:
+      213: 7883253058189830012
+    second: creepers_8
+  - first:
+      213: -5853164633287745609
+    second: creepers_9
+  - first:
+      213: -6795098557191510899
+    second: creepers_10
+  - first:
+      213: -5673002574966777853
+    second: creepers_11
+  - first:
+      213: 2083768968576638976
+    second: creepers_12
+  - first:
+      213: 587122998413535949
+    second: creepers_13
+  - first:
+      213: 4068681462248409116
+    second: creepers_14
+  - first:
+      213: -2114157063911855163
+    second: creepers_15
+  - first:
+      213: -5102837901913354363
+    second: creepers_16
+  - first:
+      213: 518797842553100441
+    second: creepers_17
+  - first:
+      213: -7394794874993989794
+    second: creepers_18
+  - first:
+      213: -1543000707912897130
+    second: creepers_19
+  - first:
+      213: -7037677558012018922
+    second: creepers_20
+  - first:
+      213: -153626980983583079
+    second: creepers_21
+  - first:
+      213: 2114329035169969543
+    second: creepers_22
+  - first:
+      213: 1317648539462084758
+    second: creepers_23
+  - first:
+      213: -5051303604142960722
+    second: creepers_24
+  - first:
+      213: -6073159880763894202
+    second: creepers_25
+  - first:
+      213: -804351105188420345
+    second: creepers_26
+  - first:
+      213: 6536500623777519975
+    second: creepers_27
+  - first:
+      213: 3849649307772664287
+    second: creepers_28
+  - first:
+      213: 1814258933327400496
+    second: creepers_29
+  - first:
+      213: 7735856759364921123
+    second: creepers_30
+  - first:
+      213: -2601134084035555078
+    second: creepers_31
+  - first:
+      213: 3495015785311510642
+    second: creepers_32
+  - first:
+      213: 392990659747725204
+    second: creepers_33
+  - first:
+      213: -7633935258266252064
+    second: creepers_34
+  - first:
+      213: -1762061366802817359
+    second: creepers_35
+  - first:
+      213: -3701793291119423790
+    second: creepers_36
+  - first:
+      213: 4693872016969776168
+    second: creepers_37
+  - first:
+      213: -8399627715816881910
+    second: creepers_38
+  - first:
+      213: -8135698493789545781
+    second: creepers_39
+  - first:
+      213: 9203731956853611095
+    second: creepers_40
+  - first:
+      213: -460258888542272137
+    second: creepers_41
+  - first:
+      213: 5007663839867400146
+    second: creepers_42
+  - first:
+      213: 4870506323709499192
+    second: creepers_43
+  - first:
+      213: -45186239223256721
+    second: creepers_44
+  - first:
+      213: -1784005913557715117
+    second: creepers_45
+  - first:
+      213: -433550720482073020
+    second: creepers_46
+  - first:
+      213: -4498794293522566767
+    second: creepers_47
+  - first:
+      213: 1796749897270305437
+    second: creepers_48
+  - first:
+      213: -8994933682637548176
+    second: creepers_49
+  - first:
+      213: 1154279094810056949
+    second: creepers_50
+  - first:
+      213: 8960784416940638104
+    second: creepers_51
+  - first:
+      213: 4592109988425963496
+    second: creepers_52
+  - first:
+      213: 1602518365028892063
+    second: creepers_53
+  - first:
+      213: -4187711450360530094
+    second: creepers_54
+  - first:
+      213: -5387143983868200421
+    second: creepers_55
+  - first:
+      213: -6084623165718345088
+    second: creepers_56
+  - first:
+      213: 8849180974907173419
+    second: creepers_57
+  - first:
+      213: -1802188069363166925
+    second: creepers_58
+  - first:
+      213: -5622679341220752197
+    second: creepers_59
+  - first:
+      213: 4998788038645358658
+    second: creepers_60
+  - first:
+      213: 2009000525304731872
+    second: creepers_61
+  - first:
+      213: 1101637152632139503
+    second: creepers_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: creepers_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a0eaa78599fbbd0800000000000000
+      internalID: -2612200653557200246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 81
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8108546fdb554a340800000000000000
+      internalID: 4874114971090649112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 76
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66a2b4f77e209fa0800000000000000
+      internalID: -5796081627684493717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 76
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b8d59bcf698a960800000000000000
+      internalID: 7613501182255663889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 39
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd04dacf13418b70800000000000000
+      internalID: 8899468142486752708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 40
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c169226d9d5d9d80800000000000000
+      internalID: -8242328812480011838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18132f341f7052680800000000000000
+      internalID: -8780603165680455295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7358c19fca38330800000000000000
+      internalID: 3712000703808747505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77aaef93e0f66d60800000000000000
+      internalID: 7883253058189830012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 118
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf110507c165cea0800000000000000
+      internalID: -5853164633287745609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_10
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 116
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77cc3dfe30c4a14e8633a58e33a1b28
+      internalID: -6795098557191510899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 116
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64929a3d941c9d46bea0e49eb955b35
+      internalID: -5673002574966777853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 54
+        height: 31
+      alignment: 9
+      pivot: {x: 0.6274488, y: 0.53600127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd80c5b111fd65c4a9752ecc9b722436
+      internalID: 2083768968576638976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: creepers_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1
+        width: 54
+        height: 30
+      alignment: 9
+      pivot: {x: 0.38288483, y: 0.49379948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e78956c1e9e06d42ac5c5bcc92efd42
+      internalID: 587122998413535949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 41cfb41b918b74f4f880528eb6e72c84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      creepers_0: -2612200653557200246
+      creepers_1: 4874114971090649112
+      creepers_10: -6795098557191510899
+      creepers_11: -5673002574966777853
+      creepers_12: 2083768968576638976
+      creepers_13: 587122998413535949
+      creepers_14: 4068681462248409116
+      creepers_15: -2114157063911855163
+      creepers_16: -5102837901913354363
+      creepers_17: 518797842553100441
+      creepers_18: -7394794874993989794
+      creepers_19: -1543000707912897130
+      creepers_2: -5796081627684493717
+      creepers_20: -7037677558012018922
+      creepers_21: -153626980983583079
+      creepers_22: 2114329035169969543
+      creepers_23: 1317648539462084758
+      creepers_24: -5051303604142960722
+      creepers_25: -6073159880763894202
+      creepers_26: -804351105188420345
+      creepers_27: 6536500623777519975
+      creepers_28: 3849649307772664287
+      creepers_29: 1814258933327400496
+      creepers_3: 7613501182255663889
+      creepers_30: 7735856759364921123
+      creepers_31: -2601134084035555078
+      creepers_32: 3495015785311510642
+      creepers_33: 392990659747725204
+      creepers_34: -7633935258266252064
+      creepers_35: -1762061366802817359
+      creepers_36: -3701793291119423790
+      creepers_37: 4693872016969776168
+      creepers_38: -8399627715816881910
+      creepers_39: -8135698493789545781
+      creepers_4: 8899468142486752708
+      creepers_40: 9203731956853611095
+      creepers_41: -460258888542272137
+      creepers_42: 5007663839867400146
+      creepers_43: 4870506323709499192
+      creepers_44: -45186239223256721
+      creepers_45: -1784005913557715117
+      creepers_46: -433550720482073020
+      creepers_47: -4498794293522566767
+      creepers_48: 1796749897270305437
+      creepers_49: -8994933682637548176
+      creepers_5: -8242328812480011838
+      creepers_50: 1154279094810056949
+      creepers_51: 8960784416940638104
+      creepers_52: 4592109988425963496
+      creepers_53: 1602518365028892063
+      creepers_54: -4187711450360530094
+      creepers_55: -5387143983868200421
+      creepers_56: -6084623165718345088
+      creepers_57: 8849180974907173419
+      creepers_58: -1802188069363166925
+      creepers_59: -5622679341220752197
+      creepers_6: -8780603165680455295
+      creepers_60: 4998788038645358658
+      creepers_61: 2009000525304731872
+      creepers_62: 1101637152632139503
+      creepers_63: -375598074
+      creepers_7: 3712000703808747505
+      creepers_8: 7883253058189830012
+      creepers_9: -5853164633287745609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

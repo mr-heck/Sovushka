@@ -1,0 +1,1239 @@
+fileFormatVersion: 2
+guid: 59042d896cad9d144b599c89ebdaf454
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8662411735135110595
+    second: mr. Heck_0
+  - first:
+      213: 7794664510655363823
+    second: mr. Heck_1
+  - first:
+      213: -5720312760087068675
+    second: mr. Heck_2
+  - first:
+      213: 4188858352250819876
+    second: mr. Heck_3
+  - first:
+      213: -2015943468899855448
+    second: mr. Heck_4
+  - first:
+      213: 4636143155580337167
+    second: mr. Heck_5
+  - first:
+      213: -2987957092610088344
+    second: mr. Heck_6
+  - first:
+      213: -3104757284297798276
+    second: mr. Heck_7
+  - first:
+      213: 2229914424631131049
+    second: mr. Heck_8
+  - first:
+      213: -2027344327992541234
+    second: mr. Heck_9
+  - first:
+      213: -7838551549653707025
+    second: mr. Heck_10
+  - first:
+      213: -5400026115392743742
+    second: mr. Heck_11
+  - first:
+      213: -5208066078463866663
+    second: mr. Heck_12
+  - first:
+      213: 6307479291502123883
+    second: mr. Heck_13
+  - first:
+      213: 7426815248069696763
+    second: mr. Heck_14
+  - first:
+      213: 7669249743925072911
+    second: mr. Heck_15
+  - first:
+      213: 5876728837785114726
+    second: mr. Heck_16
+  - first:
+      213: 3198643480792786562
+    second: mr. Heck_17
+  - first:
+      213: 7984952171018046363
+    second: mr. Heck_18
+  - first:
+      213: -6964067206019167400
+    second: mr. Heck_19
+  - first:
+      213: -3928473171022113150
+    second: mr. Heck_20
+  - first:
+      213: 5107691918906674500
+    second: mr. Heck_21
+  - first:
+      213: 3630514568385167159
+    second: mr. Heck_22
+  - first:
+      213: -2263366187039601497
+    second: mr. Heck_23
+  - first:
+      213: -5780217298632651743
+    second: mr. Heck_24
+  - first:
+      213: 4005699264035516340
+    second: mr. Heck_25
+  - first:
+      213: 5270593751791505441
+    second: mr. Heck_26
+  - first:
+      213: -9202994081290177206
+    second: mr. Heck_27
+  - first:
+      213: -5447346826478944797
+    second: mr. Heck_28
+  - first:
+      213: 8423273605481938762
+    second: mr. Heck_29
+  - first:
+      213: -6043974984839499620
+    second: mr. Heck_30
+  - first:
+      213: -8675378380839157583
+    second: mr. Heck_31
+  - first:
+      213: -8250250809499240860
+    second: mr. Heck_32
+  - first:
+      213: -5386089473992367062
+    second: mr. Heck_33
+  - first:
+      213: -4617799576568859210
+    second: mr. Heck_34
+  - first:
+      213: 8668621103201020583
+    second: mr. Heck_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mr. Heck_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 489
+        width: 67
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ab81d1c6ee8c780800000000000000
+      internalID: -8662411735135110595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 487
+        width: 65
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaf4f413163c2c60800000000000000
+      internalID: 7794664510655363823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 486
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff30ea2add5d90b0800000000000000
+      internalID: -5720312760087068675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 488
+        width: 65
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42596545a70d12a30800000000000000
+      internalID: 4188858352250819876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 485
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a394f0981ee504e0800000000000000
+      internalID: -2015943468899855448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 481
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c793cf2a3e65040800000000000000
+      internalID: 4636143155580337167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_6
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 482
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862eddaead4a886d0800000000000000
+      internalID: -2987957092610088344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 480
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d8f9b13bfa9e4d0800000000000000
+      internalID: -3104757284297798276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 360
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab78a7ca5f32fe10800000000000000
+      internalID: 2229914424631131049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 360
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecff994331d6dd3e0800000000000000
+      internalID: -2027344327992541234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 360
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe69d4165eed73390800000000000000
+      internalID: -7838551549653707025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 361
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6de2ecbd04f05b0800000000000000
+      internalID: -5400026115392743742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 360
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d84662ce7b39b7b0800000000000000
+      internalID: -5208066078463866663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_13
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 364
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bdd164ffaa88750800000000000000
+      internalID: 6307479291502123883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 363
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc16a18e19511760800000000000000
+      internalID: 7426815248069696763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_15
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 361
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04d8683206ae6a60800000000000000
+      internalID: 7669249743925072911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 260
+        width: 24
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668d971edb55e8150800000000000000
+      internalID: 5876728837785114726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 261
+        width: 24
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286e5c37c4dd36c20800000000000000
+      internalID: 3198643480792786562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_18
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 24
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bc30681bf30de60800000000000000
+      internalID: 7984952171018046363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 243
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bc749f5c9aa5f90800000000000000
+      internalID: -6964067206019167400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 243
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286139307724b79c0800000000000000
+      internalID: -3928473171022113150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 241
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dc0901dba22e640800000000000000
+      internalID: 5107691918906674500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 243
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f7a70c3cd226230800000000000000
+      internalID: 3630514568385167159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_23
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 241
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7accfd8d178e690e0800000000000000
+      internalID: -2263366187039601497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 240
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cce66edfa88cfa0800000000000000
+      internalID: -5780217298632651743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_25
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 270
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf61ede14a179730800000000000000
+      internalID: 4005699264035516340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_26
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 121
+        width: 68
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1201deaa719e42940800000000000000
+      internalID: 5270593751791505441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 148
+        width: 21
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a453da284a5684080800000000000000
+      internalID: -9202994081290177206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 121
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edfe5f2ce22764b0800000000000000
+      internalID: -5447346826478944797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_29
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 123
+        width: 71
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fbcac37ba75e470800000000000000
+      internalID: 8423273605481938762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_30
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 121
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c907b4d06cc7f1ca0800000000000000
+      internalID: -6043974984839499620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_31
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 125
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b08af5a35dda9780800000000000000
+      internalID: -8675378380839157583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 123
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4663be7b998318d80800000000000000
+      internalID: -8250250809499240860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_33
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 133
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24e63ef824c045b0800000000000000
+      internalID: -5386089473992367062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_34
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 139
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5f9a250c74aefb0800000000000000
+      internalID: -4617799576568859210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_35
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 138
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa60cc07f02d4870800000000000000
+      internalID: 8668621103201020583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ab24bac7195a429d3e15e801d895a
+      internalID: 1265589952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba98bde18b03e4489c232f0c9be6628
+      internalID: -640281545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_38
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910a6626a7cf874f85097a3a3d86748
+      internalID: -623098218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_39
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437fd272536dc924a94cdcc13923e11b
+      internalID: 1639966088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 5
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1456c946f1be6e5429b213e0971ad897
+      internalID: -1466980447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_41
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8defb63f6a413ec4584fbf59ce7a752b
+      internalID: -434483445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_42
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc0cbeeedb51aa46a9276d53bbcc698
+      internalID: 1533521475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. Heck_43
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 7
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5e037439132cf44813eee7ddec55a5
+      internalID: 1512038560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e244240a7e463134e89efb7911938192
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mr. Heck_0: -8662411735135110595
+      mr. Heck_1: 7794664510655363823
+      mr. Heck_10: -7838551549653707025
+      mr. Heck_11: -5400026115392743742
+      mr. Heck_12: -5208066078463866663
+      mr. Heck_13: 6307479291502123883
+      mr. Heck_14: 7426815248069696763
+      mr. Heck_15: 7669249743925072911
+      mr. Heck_16: 5876728837785114726
+      mr. Heck_17: 3198643480792786562
+      mr. Heck_18: 7984952171018046363
+      mr. Heck_19: -6964067206019167400
+      mr. Heck_2: -5720312760087068675
+      mr. Heck_20: -3928473171022113150
+      mr. Heck_21: 5107691918906674500
+      mr. Heck_22: 3630514568385167159
+      mr. Heck_23: -2263366187039601497
+      mr. Heck_24: -5780217298632651743
+      mr. Heck_25: 4005699264035516340
+      mr. Heck_26: 5270593751791505441
+      mr. Heck_27: -9202994081290177206
+      mr. Heck_28: -5447346826478944797
+      mr. Heck_29: 8423273605481938762
+      mr. Heck_3: 4188858352250819876
+      mr. Heck_30: -6043974984839499620
+      mr. Heck_31: -8675378380839157583
+      mr. Heck_32: -8250250809499240860
+      mr. Heck_33: -5386089473992367062
+      mr. Heck_34: -4617799576568859210
+      mr. Heck_35: 8668621103201020583
+      mr. Heck_36: 1265589952
+      mr. Heck_37: -640281545
+      mr. Heck_38: -623098218
+      mr. Heck_39: 1639966088
+      mr. Heck_4: -2015943468899855448
+      mr. Heck_40: -1466980447
+      mr. Heck_41: -434483445
+      mr. Heck_42: 1533521475
+      mr. Heck_43: 1512038560
+      mr. Heck_5: 4636143155580337167
+      mr. Heck_6: -2987957092610088344
+      mr. Heck_7: -3104757284297798276
+      mr. Heck_8: 2229914424631131049
+      mr. Heck_9: -2027344327992541234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

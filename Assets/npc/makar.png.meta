@@ -1,0 +1,764 @@
+fileFormatVersion: 2
+guid: 723b87eb6e024ec4db014d86e6456c43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2590996502328273286
+    second: makar_0
+  - first:
+      213: -2356866743535072781
+    second: makar_1
+  - first:
+      213: 5968992541456674609
+    second: makar_2
+  - first:
+      213: 8737252331013956812
+    second: makar_3
+  - first:
+      213: -6579410529677559530
+    second: makar_4
+  - first:
+      213: -5239250413079746720
+    second: makar_5
+  - first:
+      213: -3608980855741449446
+    second: makar_6
+  - first:
+      213: -8936635243365433133
+    second: makar_7
+  - first:
+      213: -1402266684594598616
+    second: makar_8
+  - first:
+      213: 8715657897536086372
+    second: makar_9
+  - first:
+      213: 3475196801200070058
+    second: makar_10
+  - first:
+      213: -1984503110090884998
+    second: makar_11
+  - first:
+      213: -3606302672131460863
+    second: makar_12
+  - first:
+      213: -3199043257952690461
+    second: makar_13
+  - first:
+      213: 8688282422661855593
+    second: makar_14
+  - first:
+      213: -8543545772033644831
+    second: makar_15
+  - first:
+      213: -7292904534106163188
+    second: makar_16
+  - first:
+      213: 5794721502311091506
+    second: makar_17
+  - first:
+      213: 5719190883760212421
+    second: makar_18
+  - first:
+      213: -4362261551568694808
+    second: makar_19
+  - first:
+      213: 1966551506942215291
+    second: makar_20
+  - first:
+      213: 8872025258762276299
+    second: makar_21
+  - first:
+      213: 1269805917764599518
+    second: makar_22
+  - first:
+      213: 468932084755027795
+    second: makar_23
+  - first:
+      213: 5691084731230040966
+    second: makar_24
+  - first:
+      213: -5644368202824251565
+    second: makar_25
+  - first:
+      213: 1427096546435055114
+    second: makar_26
+  - first:
+      213: 130807117774391913
+    second: makar_27
+  - first:
+      213: -7982737588954157803
+    second: makar_28
+  - first:
+      213: -6985625339079699385
+    second: makar_29
+  - first:
+      213: 653079177847931956
+    second: makar_30
+  - first:
+      213: 3705812955740185960
+    second: makar_31
+  - first:
+      213: 960608992666921544
+    second: makar_32
+  - first:
+      213: -6043344501659398534
+    second: makar_33
+  - first:
+      213: -2555372864948574688
+    second: makar_34
+  - first:
+      213: 3558673109702705806
+    second: makar_35
+  - first:
+      213: 1875046775169595442
+    second: makar_36
+  - first:
+      213: -4860494839748946458
+    second: makar_37
+  - first:
+      213: -5867928178002348596
+    second: makar_38
+  - first:
+      213: 4310152833740310897
+    second: makar_39
+  - first:
+      213: -6284089134392212779
+    second: makar_40
+  - first:
+      213: 3840898135099390753
+    second: makar_41
+  - first:
+      213: 2812217812229808947
+    second: makar_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: makar_0
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 773
+        width: 169
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6896e87579115f320800000000000000
+      internalID: 2590996502328273286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 778
+        width: 169
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f2b74671f16d250800000000000000
+      internalID: 5968992541456674609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 776
+        width: 164
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067201f02817a47b0800000000000000
+      internalID: -5239250413079746720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 148
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d209af0a3e6ac8a0800000000000000
+      internalID: -6284089134392212779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 570
+        width: 149
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b3f01018c9d4530800000000000000
+      internalID: 3840898135099390753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_42
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 570
+        width: 158
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333ebf05331070720800000000000000
+      internalID: 2812217812229808947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 164
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d8bac01feb144d816b013f082be70
+      internalID: 1043862924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_48
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 215
+        width: 166
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bc47a4edaade2489d38f607b80bbfa
+      internalID: -259828296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_50
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 204
+        width: 165
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1958df4bd82024fbd2e41f3ae92a8f
+      internalID: -1119030419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_51
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 359
+        width: 1
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058f1cf23a1236d438ba156fdf3fe280
+      internalID: -2022286343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_83
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 155
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3619caebdfb101e4887c20eac96dda5f
+      internalID: 700414958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_84
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 138
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad77dfca88d1934182e562d6c5e1b61
+      internalID: 307831822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_85
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0
+        width: 148
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d09ca94df44640906e001cba82b61
+      internalID: 660878348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc483a7ce7fc14c95fa89fc8bb04cf
+      internalID: 1517929374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_91
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 273
+        width: 1
+        height: 411
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711958cedde9ec44ca36b1ee1e0323fb
+      internalID: -2146540853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_92
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 253
+        width: 1
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361d04668af90b947b737f1dfb607ce2
+      internalID: 1755865851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_93
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 464
+        width: 1
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6059f3e0db3e4cc44898fa1e6dfa3454
+      internalID: 1737370465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_94
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 468
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ebafcb97251364ebc521a50bba5b75
+      internalID: -1390490186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: makar_95
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 300
+        width: 1
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db919a85b4ffe479fdd01583cd298f
+      internalID: -1058899652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b72e936697714894891ae41bdd70d60a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      makar_0: 2590996502328273286
+      makar_1: -2356866743535072781
+      makar_10: 3475196801200070058
+      makar_11: -1984503110090884998
+      makar_12: -3606302672131460863
+      makar_13: -3199043257952690461
+      makar_14: 8688282422661855593
+      makar_15: -8543545772033644831
+      makar_16: -7292904534106163188
+      makar_17: 5794721502311091506
+      makar_18: 5719190883760212421
+      makar_19: -4362261551568694808
+      makar_2: 5968992541456674609
+      makar_20: 1966551506942215291
+      makar_21: 8872025258762276299
+      makar_22: 1269805917764599518
+      makar_23: 468932084755027795
+      makar_24: 5691084731230040966
+      makar_25: -5644368202824251565
+      makar_26: 1427096546435055114
+      makar_27: 130807117774391913
+      makar_28: -7982737588954157803
+      makar_29: -6985625339079699385
+      makar_3: 8737252331013956812
+      makar_30: 653079177847931956
+      makar_31: 3705812955740185960
+      makar_32: 960608992666921544
+      makar_33: -6043344501659398534
+      makar_34: -2555372864948574688
+      makar_35: 3558673109702705806
+      makar_36: 1875046775169595442
+      makar_37: -4860494839748946458
+      makar_38: -5867928178002348596
+      makar_39: 4310152833740310897
+      makar_4: -6579410529677559530
+      makar_40: -6284089134392212779
+      makar_41: 3840898135099390753
+      makar_42: 2812217812229808947
+      makar_43: 1044578666
+      makar_44: -1841111554
+      makar_45: 1043862924
+      makar_46: -951625042
+      makar_47: 1522718931
+      makar_48: -259828296
+      makar_49: -1295614689
+      makar_5: -5239250413079746720
+      makar_50: -1119030419
+      makar_51: -2022286343
+      makar_52: 328311157
+      makar_53: -1718497046
+      makar_54: -1555786761
+      makar_55: -450187081
+      makar_56: 2065204589
+      makar_57: 1568838786
+      makar_58: 1023830323
+      makar_59: 181948242
+      makar_6: -3608980855741449446
+      makar_60: 1385827319
+      makar_61: 1680035054
+      makar_62: 1754934506
+      makar_63: 148474742
+      makar_64: -1741450744
+      makar_65: 2084895956
+      makar_66: -274890781
+      makar_67: -207992164
+      makar_68: 1000284654
+      makar_69: -1580490946
+      makar_7: -8936635243365433133
+      makar_70: -1868007176
+      makar_71: 1022597064
+      makar_72: 1212637549
+      makar_73: 1772300489
+      makar_74: -766396796
+      makar_75: 1489270574
+      makar_76: -629567687
+      makar_77: -700010491
+      makar_78: -2122050470
+      makar_79: 753418649
+      makar_8: -1402266684594598616
+      makar_80: -759394906
+      makar_81: 1378410618
+      makar_82: -1176544014
+      makar_83: 700414958
+      makar_84: 307831822
+      makar_85: 660878348
+      makar_86: 1517929374
+      makar_87: 690528242
+      makar_88: -825037657
+      makar_89: -1212622895
+      makar_9: 8715657897536086372
+      makar_90: -316671017
+      makar_91: -2146540853
+      makar_92: 1755865851
+      makar_93: 1737370465
+      makar_94: -1390490186
+      makar_95: -1058899652
+      makar_96: 1392644310
+      makar_97: 1621385413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

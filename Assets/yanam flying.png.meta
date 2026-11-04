@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 527444cc30e0d8248a1dd36116ffeaf6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5290199443602631004
+    second: yanam flying_0
+  - first:
+      213: -7234643626837311474
+    second: yanam flying_1
+  - first:
+      213: -3715421961794887693
+    second: yanam flying_2
+  - first:
+      213: 4364629113574213785
+    second: yanam flying_3
+  - first:
+      213: 2031136580813484975
+    second: yanam flying_4
+  - first:
+      213: -2423534162910772854
+    second: yanam flying_5
+  - first:
+      213: -2011014708147643407
+    second: yanam flying_6
+  - first:
+      213: 2575750198889629618
+    second: yanam flying_7
+  - first:
+      213: -4930465140715440521
+    second: yanam flying_8
+  - first:
+      213: 903174505244495983
+    second: yanam flying_9
+  - first:
+      213: -8559701227218656548
+    second: yanam flying_10
+  - first:
+      213: 7786571416088860468
+    second: yanam flying_11
+  - first:
+      213: -4919540856860592199
+    second: yanam flying_12
+  - first:
+      213: 5285858248237723516
+    second: yanam flying_13
+  - first:
+      213: 3535862579034625499
+    second: yanam flying_14
+  - first:
+      213: 8015615979393396657
+    second: yanam flying_15
+  - first:
+      213: -1760339430325372264
+    second: yanam flying_16
+  - first:
+      213: 6940041612122159991
+    second: yanam flying_17
+  - first:
+      213: 745460528065271505
+    second: yanam flying_18
+  - first:
+      213: 5244828733045381760
+    second: yanam flying_19
+  - first:
+      213: 5184744256086980617
+    second: yanam flying_20
+  - first:
+      213: -7366981218749891203
+    second: yanam flying_21
+  - first:
+      213: -3012709414861559099
+    second: yanam flying_22
+  - first:
+      213: -3476037244333362961
+    second: yanam flying_23
+  - first:
+      213: 7506280876938207505
+    second: yanam flying_24
+  - first:
+      213: 2553372373523970890
+    second: yanam flying_25
+  - first:
+      213: -2394590029126064285
+    second: yanam flying_26
+  - first:
+      213: 8399030051083781259
+    second: yanam flying_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yanam flying_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1441
+        width: 250
+        height: 242
+      alignment: 9
+      pivot: {x: 0.49666718, y: 0.6497717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5967e28d509a6940800000000000000
+      internalID: 5290199443602631004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_1
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1441
+        width: 250
+        height: 242
+      alignment: 9
+      pivot: {x: 0.49833348, y: 0.6514938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0081d1c3f1699b90800000000000000
+      internalID: -7234643626837311474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1472
+        width: 250
+        height: 225
+      alignment: 9
+      pivot: {x: 0.49826464, y: 0.6311334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffd780396b207cc0800000000000000
+      internalID: -3715421961794887693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_3
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1458
+        width: 250
+        height: 225
+      alignment: 9
+      pivot: {x: 0.49826464, y: 0.60992026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9984be2dd07429c30800000000000000
+      internalID: 4364629113574213785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_4
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1452
+        width: 250
+        height: 225
+      alignment: 9
+      pivot: {x: 0.50173587, y: 0.59449327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa370b575fb003c10800000000000000
+      internalID: 2031136580813484975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1188
+        width: 250
+        height: 209
+      alignment: 9
+      pivot: {x: 0.4959901, y: 0.58153653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a810eaee480ed5ed0800000000000000
+      internalID: -2423534162910772854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1188
+        width: 250
+        height: 228
+      alignment: 9
+      pivot: {x: 0.49598962, y: 0.54396456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb16ca17c07714e0800000000000000
+      internalID: -2011014708147643407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_7
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1188
+        width: 250
+        height: 238
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.5084223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b745f2b827eeb320800000000000000
+      internalID: 2575750198889629618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_8
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1187
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776b536c318739bb0800000000000000
+      internalID: -4930465140715440521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1178
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6099436d68b88c00800000000000000
+      internalID: 903174505244495983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 928
+        width: 250
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd22828c515d53980800000000000000
+      internalID: -8559701227218656548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 928
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437df2aa2757f0c60800000000000000
+      internalID: 7786571416088860468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 929
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7bdc0d7a74abbb0800000000000000
+      internalID: -4919540856860592199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_13
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 928
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f274332142b5940800000000000000
+      internalID: 5285858248237723516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_14
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 933
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd594f52848e11130800000000000000
+      internalID: 3535862579034625499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf20b3c3403d3f60800000000000000
+      internalID: 8015615979393396657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 668
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ab7536d940297e0800000000000000
+      internalID: -1760339430325372264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_17
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 678
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b78f8831bff4060800000000000000
+      internalID: 6940041612122159991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 668
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6d7619668685a00800000000000000
+      internalID: 745460528065271505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_19
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 678
+        width: 250
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a9ee4c1ff59c840800000000000000
+      internalID: 5244828733045381760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 250
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5001779, y: 0.47117704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908bf435e69e3f740800000000000000
+      internalID: 5184744256086980617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_21
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 350
+        width: 250
+        height: 244
+      alignment: 9
+      pivot: {x: 0.49614796, y: 0.47163203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d307d0d9933c990800000000000000
+      internalID: -7366981218749891203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 348
+        width: 250
+        height: 242
+      alignment: 9
+      pivot: {x: 0.49986622, y: 0.4713701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caa3bbcfb4b036d0800000000000000
+      internalID: -3012709414861559099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_23
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 349
+        width: 250
+        height: 244
+      alignment: 9
+      pivot: {x: 0.5003208, y: 0.47554103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe07b790b82a2cfc0800000000000000
+      internalID: -3476037244333362961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 250
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111a53600baab2860800000000000000
+      internalID: 7506280876938207505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 250
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b313735a66f6320800000000000000
+      internalID: 2553372373523970890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_26
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 7
+        width: 250
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367af3b3e05b4ced0800000000000000
+      internalID: -2394590029126064285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yanam flying_27
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 18
+        width: 250
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b840eacd4595f8470800000000000000
+      internalID: 8399030051083781259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 783f8a7e4e54b644e84df412613a0a6c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      yanam flying_0: 5290199443602631004
+      yanam flying_1: -7234643626837311474
+      yanam flying_10: -8559701227218656548
+      yanam flying_11: 7786571416088860468
+      yanam flying_12: -4919540856860592199
+      yanam flying_13: 5285858248237723516
+      yanam flying_14: 3535862579034625499
+      yanam flying_15: 8015615979393396657
+      yanam flying_16: -1760339430325372264
+      yanam flying_17: 6940041612122159991
+      yanam flying_18: 745460528065271505
+      yanam flying_19: 5244828733045381760
+      yanam flying_2: -3715421961794887693
+      yanam flying_20: 5184744256086980617
+      yanam flying_21: -7366981218749891203
+      yanam flying_22: -3012709414861559099
+      yanam flying_23: -3476037244333362961
+      yanam flying_24: 7506280876938207505
+      yanam flying_25: 2553372373523970890
+      yanam flying_26: -2394590029126064285
+      yanam flying_27: 8399030051083781259
+      yanam flying_3: 4364629113574213785
+      yanam flying_4: 2031136580813484975
+      yanam flying_5: -2423534162910772854
+      yanam flying_6: -2011014708147643407
+      yanam flying_7: 2575750198889629618
+      yanam flying_8: -4930465140715440521
+      yanam flying_9: 903174505244495983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

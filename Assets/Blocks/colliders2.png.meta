@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: dc47180d0dd2cb54180291cfd250cb53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5214277591740080660
+    second: colliders2_0
+  - first:
+      213: 7488343814617858482
+    second: colliders2_1
+  - first:
+      213: 3618192539010711660
+    second: colliders2_2
+  - first:
+      213: -1175397306578636743
+    second: colliders2_3
+  - first:
+      213: -7654106762990795393
+    second: colliders2_4
+  - first:
+      213: 1786551063925214736
+    second: colliders2_5
+  - first:
+      213: -4705566020455141924
+    second: colliders2_6
+  - first:
+      213: 4917777900537368808
+    second: colliders2_7
+  - first:
+      213: -7884230560724830190
+    second: colliders2_8
+  - first:
+      213: -3051103071413081634
+    second: colliders2_9
+  - first:
+      213: 8839465684192949669
+    second: colliders2_10
+  - first:
+      213: 8729960858867118030
+    second: colliders2_11
+  - first:
+      213: 7030927862941882489
+    second: colliders2_12
+  - first:
+      213: -8586603866545290849
+    second: colliders2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: colliders2_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 3.1330364, y: -19.825205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41262ffd7d5dc5840800000000000000
+      internalID: 5214277591740080660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 140
+        width: 77
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49802458, y: 0.56966305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b18a424601fbe760800000000000000
+      internalID: 7488343814617858482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 129
+        width: 69
+        height: 82
+      alignment: 9
+      pivot: {x: 0.552423, y: 0.5680166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60c3b8b1f6663230800000000000000
+      internalID: 3618192539010711660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 97
+        height: 93
+      alignment: 9
+      pivot: {x: 0.50488746, y: 0.5872724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930fd6f806620bfe0800000000000000
+      internalID: -1175397306578636743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75c407c37627c590800000000000000
+      internalID: -7654106762990795393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ecb522aba1bc810800000000000000
+      internalID: 1786551063925214736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd6f93b2a872beb0800000000000000
+      internalID: -4705566020455141924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0dbcde1f47f3440800000000000000
+      internalID: 4917777900537368808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218b7b4d316959290800000000000000
+      internalID: -7884230560724830190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9e1570ced48a5d0800000000000000
+      internalID: -3051103071413081634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5739ec4371caa70800000000000000
+      internalID: 8839465684192949669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 128
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4977115, y: 0.58572227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfa6d7d52d072970800000000000000
+      internalID: 8729960858867118030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9781c00d3afd29160800000000000000
+      internalID: 7030927862941882489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colliders2_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 12
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.59538144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f918293f64146d880800000000000000
+      internalID: -8586603866545290849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 390fccd33c01c05479aeedc014a55d7d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      colliders2_0: 5214277591740080660
+      colliders2_1: 7488343814617858482
+      colliders2_10: 8839465684192949669
+      colliders2_11: 8729960858867118030
+      colliders2_12: 7030927862941882489
+      colliders2_13: -8586603866545290849
+      colliders2_2: 3618192539010711660
+      colliders2_3: -1175397306578636743
+      colliders2_4: -7654106762990795393
+      colliders2_5: 1786551063925214736
+      colliders2_6: -4705566020455141924
+      colliders2_7: 4917777900537368808
+      colliders2_8: -7884230560724830190
+      colliders2_9: -3051103071413081634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

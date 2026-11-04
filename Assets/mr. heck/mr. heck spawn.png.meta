@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: f38dacb309b5792499d6c77d0f9991ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7111169189940016909
+    second: mr. heck spawn_0
+  - first:
+      213: -1815777211680932289
+    second: mr. heck spawn_1
+  - first:
+      213: 7578818678836790733
+    second: mr. heck spawn_2
+  - first:
+      213: -5925940843150982417
+    second: mr. heck spawn_3
+  - first:
+      213: 4558556222751669846
+    second: mr. heck spawn_4
+  - first:
+      213: 2383705937298021715
+    second: mr. heck spawn_5
+  - first:
+      213: -6380185404757651205
+    second: mr. heck spawn_6
+  - first:
+      213: -6599712725585586412
+    second: mr. heck spawn_7
+  - first:
+      213: 2541928319115985984
+    second: mr. heck spawn_8
+  - first:
+      213: -4047683574990774577
+    second: mr. heck spawn_9
+  - first:
+      213: 9158865960719569327
+    second: mr. heck spawn_10
+  - first:
+      213: 3978111622007055955
+    second: mr. heck spawn_11
+  - first:
+      213: -3487498906299819507
+    second: mr. heck spawn_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mr. heck spawn_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 84
+        width: 65
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4355658, y: 0.15179293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07b310a3b2ffa260800000000000000
+      internalID: 7111169189940016909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 79
+        width: 63
+        height: 81
+      alignment: 9
+      pivot: {x: 0.3005607, y: 0.22078517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e32821f301dc6e0800000000000000
+      internalID: -1815777211680932289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 84
+        width: 58
+        height: 74
+      alignment: 9
+      pivot: {x: 0.319473, y: 0.1858832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc589212f6f5d2960800000000000000
+      internalID: 7578818678836790733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 84
+        width: 44
+        height: 78
+      alignment: 9
+      pivot: {x: 0.3619794, y: 0.16708991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2c10c3334d2cda0800000000000000
+      internalID: -5925940843150982417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 90
+        width: 39
+        height: 71
+      alignment: 9
+      pivot: {x: 0.43556565, y: 0.09887448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e72c97bbe334f30800000000000000
+      internalID: 4558556222751669846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 42
+        height: 71
+      alignment: 9
+      pivot: {x: 0.47507006, y: 0.10182384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d53a9abef941120800000000000000
+      internalID: 2383705937298021715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 32
+        height: 73
+      alignment: 9
+      pivot: {x: 0.48036754, y: 0.08691518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0d9449d270577a0800000000000000
+      internalID: -6380185404757651205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_7
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 28
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08421264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41798db2e3c1964a0800000000000000
+      internalID: -6599712725585586412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 24
+        height: 59
+      alignment: 9
+      pivot: {x: 0.50872546, y: 0.08827624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0440a69a65eb64320800000000000000
+      internalID: 2541928319115985984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 24
+        height: 44
+      alignment: 9
+      pivot: {x: 0.50872546, y: 0.11449313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcedd7deb3db3d7c0800000000000000
+      internalID: -4047683574990774577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.46858978, y: 0.17840397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa15b16c014da1f70800000000000000
+      internalID: 9158865960719569327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 0
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.4685875, y: 0.2782701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356659a7177153730800000000000000
+      internalID: 3978111622007055955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mr. heck spawn_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 13
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5483258, y: 0.57853055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a9f67e83ae99fc0800000000000000
+      internalID: -3487498906299819507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a3119b554625ec64aa7a85cbf28d3180
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mr. heck spawn_0: 7111169189940016909
+      mr. heck spawn_1: -1815777211680932289
+      mr. heck spawn_10: 9158865960719569327
+      mr. heck spawn_11: 3978111622007055955
+      mr. heck spawn_12: -3487498906299819507
+      mr. heck spawn_2: 7578818678836790733
+      mr. heck spawn_3: -5925940843150982417
+      mr. heck spawn_4: 4558556222751669846
+      mr. heck spawn_5: 2383705937298021715
+      mr. heck spawn_6: -6380185404757651205
+      mr. heck spawn_7: -6599712725585586412
+      mr. heck spawn_8: 2541928319115985984
+      mr. heck spawn_9: -4047683574990774577
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
