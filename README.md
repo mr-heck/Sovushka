@@ -27,12 +27,14 @@ The game is designed for landscape-oriented mobile gameplay, with an interface o
 
 ## Project Structure
 
-    Sovushka/
-    ├── Assets/
-    ├── Packages/
-    ├── ProjectSettings/
-    ├── README.md
-    └── .gitignore
+```text
+Sovushka/
+├── Assets/
+├── Packages/
+├── ProjectSettings/
+├── README.md
+└── .gitignore
+```
 
 ## Getting Started
 
@@ -48,7 +50,7 @@ The game is designed for landscape-oriented mobile gameplay, with an interface o
 2. Open Unity Hub.
 3. Select Add Project from Disk.
 4. Navigate to the cloned project directory.
-5. Open the project using a compatible Unity Editor version.
+5. Open the project using the compatible Unity Editor version.
 6. Open the main scene and run the game.
 
 ## Build Platform
@@ -64,3 +66,6 @@ The game is designed for landscape-oriented mobile gameplay, with an interface o
 - LinkedIn: https://www.linkedin.com/in/abhishek-kulkarni-game-dev/
 - itch.io: https://mrheck.itch.io/
 
+## License
+
+All rights reserved. The source code and assets are provided for viewing purposes. Reuse or redistribution requires permission from the respective owner.
